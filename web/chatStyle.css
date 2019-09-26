@@ -1,0 +1,30 @@
+table {
+    border: 1px solid black;
+}
+
+body {
+    background-image: url("catbacon.jpg");
+    background-size: cover;
+    width: 100%;
+}
+
+* {
+    font-family: "Comic Sans MS";
+    color: #FFFFFF;
+}
+
+#message {
+    font-size: x-large;
+    background-color: #000000;
+    width: 400px;
+    vertical-align: middle;
+    word-wrap: break-word;
+}
+
+.tops {
+    vertical-align: top;
+}
+
+input {
+    background-color: #000000;
+}
